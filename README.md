@@ -1,0 +1,1 @@
+Leia os comentários nos códigos para entender mais sobre JS avançado.
